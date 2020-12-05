@@ -1,0 +1,22 @@
+{
+    "saas": {
+        "customerID": "123456789",
+        "userID": "foo@example.com",
+        "password": "my53cr37p455",
+        "host": "eu.msg.mcafeesaas.com"
+    },
+    "request": {
+        "requestTimestampFrom": "0",
+        "chunkIncrement": "3600",
+        "connectionTimeout": "180",
+        "outputDirCSV": "/var/tmp/wgcslogs"
+    },
+    "proxyURL": "",
+    "syslog": {
+        "syslogEnable": "False",
+        "syslogHost": "127.0.0.1",
+        "syslogPort": "5555",
+        "syslogProto": "UDP",
+        "syslogKeepCSV": "False"
+    }
+}
