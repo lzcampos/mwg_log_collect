@@ -12,3 +12,8 @@ PowerShell 4.0 or later
 In PowerShell navigate to cloned folder with script.
 
 Set the file "account.conf" with your own credentials and information to McAfee Web Gateway Cloud.
+
+# Credits
+This code was inspired in Python Project by Daniel Schindler.
+
+https://github.com/schindlerd/mwgcs-logpuller-pub
